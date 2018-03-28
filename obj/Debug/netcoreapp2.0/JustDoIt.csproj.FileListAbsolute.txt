@@ -1,0 +1,10 @@
+C:\Users\gumerovk\Desktop\apps\JustDoIt\bin\Debug\netcoreapp2.0\JustDoIt.deps.json
+C:\Users\gumerovk\Desktop\apps\JustDoIt\bin\Debug\netcoreapp2.0\JustDoIt.runtimeconfig.json
+C:\Users\gumerovk\Desktop\apps\JustDoIt\bin\Debug\netcoreapp2.0\JustDoIt.runtimeconfig.dev.json
+C:\Users\gumerovk\Desktop\apps\JustDoIt\bin\Debug\netcoreapp2.0\JustDoIt.dll
+C:\Users\gumerovk\Desktop\apps\JustDoIt\bin\Debug\netcoreapp2.0\JustDoIt.pdb
+C:\Users\gumerovk\Desktop\apps\JustDoIt\obj\Debug\netcoreapp2.0\JustDoIt.csproj.CoreCompileInputs.cache
+C:\Users\gumerovk\Desktop\apps\JustDoIt\obj\Debug\netcoreapp2.0\JustDoIt.AssemblyInfoInputs.cache
+C:\Users\gumerovk\Desktop\apps\JustDoIt\obj\Debug\netcoreapp2.0\JustDoIt.AssemblyInfo.cs
+C:\Users\gumerovk\Desktop\apps\JustDoIt\obj\Debug\netcoreapp2.0\JustDoIt.dll
+C:\Users\gumerovk\Desktop\apps\JustDoIt\obj\Debug\netcoreapp2.0\JustDoIt.pdb
